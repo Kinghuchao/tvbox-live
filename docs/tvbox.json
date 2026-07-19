@@ -1,0 +1,13 @@
+{
+  "lives": [
+    {
+      "name": "自建央视直播",
+      "type": 0,
+      "url": "https://live.xiaoxiaowang.online/cctv.m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "logo": "http://epg.51zmt.top:8000/tb/logo/gt/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+  ]
+}

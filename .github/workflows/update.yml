@@ -1,0 +1,36 @@
+name: update-live-sources
+
+# NAS 之外的保险：GitHub 云端定时跑同一套脚本。
+# 不用就删除本文件，或把 schedule 注释掉只留手动触发。
+
+on:
+  schedule:
+    # 每 6 小时跑一次（分钟位避开整点/半点）
+    - cron: "17 */6 * * *"
+  workflow_dispatch: {}  # 允许在 Actions 页面手动点 Run
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch and verify sources
+        env:
+          TVBOX_DOMAIN: ${{ vars.TVBOX_DOMAIN }}   # 仓库 Settings -> Variables 里配置，如 live.example.top
+        run: python fetch.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "update sources $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "no changes"
+          git push

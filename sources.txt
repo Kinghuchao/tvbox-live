@@ -1,0 +1,8 @@
+# 上游 m3u 直播源列表，每行一个，# 开头为注释
+# 脚本会自动过滤出央视频道并验活，源越多越好，可自行追加
+
+# iptv-org 全球公开源（中国大陆分类）
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+
+# fanmingming 的 IPv6 直播源（画质好，要求你的网络有 IPv6；没有 IPv6 可删掉这行）
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
