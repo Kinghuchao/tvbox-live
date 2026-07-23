@@ -1,45 +1,43 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-1.png" group-title="央视频道",CCTV-1 综合 (989ms)
-http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-1.png" group-title="央视频道",CCTV-1 综合 (1186ms)
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-1.png" group-title="央视频道",CCTV-1 综合 (1096ms)
 https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-2.png" group-title="央视频道",CCTV-2 财经 (203ms)
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-2.png" group-title="央视频道",CCTV-2 财经 (204ms)
 http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-3.png" group-title="央视频道",CCTV-3 综艺 (203ms)
+#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-3.png" group-title="央视频道",CCTV-3 综艺 (996ms)
 http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-4.png" group-title="央视频道",CCTV-4 中文国际 (1046ms)
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-4.png" group-title="央视频道",CCTV-4 中文国际 (205ms)
 http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-6.png" group-title="央视频道",CCTV-6 电影 (203ms)
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-6.png" group-title="央视频道",CCTV-6 电影 (204ms)
 http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-6.png" group-title="央视频道",CCTV-6 电影 (303ms)
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-6.png" group-title="央视频道",CCTV-6 电影 (308ms)
 http://198.204.240.250:82/live/cctv6.m3u8
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-7.png" group-title="央视频道",CCTV-7 国防军事 (204ms)
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-7.png" group-title="央视频道",CCTV-7 国防军事 (207ms)
 http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-8.png" group-title="央视频道",CCTV-8 电视剧 (204ms)
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-8.png" group-title="央视频道",CCTV-8 电视剧 (205ms)
 http://74.91.26.218:82/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-8.png" group-title="央视频道",CCTV-8 电视剧 (204ms)
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-8.png" group-title="央视频道",CCTV-8 电视剧 (206ms)
 http://192.151.150.154/live/cctv8k.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-9.png" group-title="央视频道",CCTV-9 纪录 (133ms)
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-9.png" group-title="央视频道",CCTV-9 纪录 (103ms)
 https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-10.png" group-title="央视频道",CCTV-10 科教 (206ms)
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-10.png" group-title="央视频道",CCTV-10 科教 (204ms)
 http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-10.png" group-title="央视频道",CCTV-10 科教 (966ms)
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-10.png" group-title="央视频道",CCTV-10 科教 (954ms)
 https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-11.png" group-title="央视频道",CCTV-11 戏曲 (151ms)
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-11.png" group-title="央视频道",CCTV-11 戏曲 (114ms)
 https://xykt-fix.github.io/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-11.png" group-title="央视频道",CCTV-11 戏曲 (206ms)
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-11.png" group-title="央视频道",CCTV-11 戏曲 (205ms)
 http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-12.png" group-title="央视频道",CCTV-12 社会与法 (204ms)
 http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-13.png" group-title="央视频道",CCTV-13 新闻 (203ms)
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-13.png" group-title="央视频道",CCTV-13 新闻 (207ms)
 http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-13.png" group-title="央视频道",CCTV-13 新闻 (982ms)
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-13.png" group-title="央视频道",CCTV-13 新闻 (1580ms)
 http://go.bkpcp.top/mg/cctv13
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-14.png" group-title="央视频道",CCTV-14 少儿 (203ms)
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-14.png" group-title="央视频道",CCTV-14 少儿 (204ms)
 http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-15.png" group-title="央视频道",CCTV-15 音乐 (105ms)
+#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-15.png" group-title="央视频道",CCTV-15 音乐 (186ms)
 https://xykt-fix.github.io/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-15.png" group-title="央视频道",CCTV-15 音乐 (204ms)
+#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-15.png" group-title="央视频道",CCTV-15 音乐 (205ms)
 http://74.91.26.218:82/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-17.png" group-title="央视频道",CCTV-17 农业农村 (205ms)
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="http://epg.51zmt.top:8000/tb/logo/gt/CCTV-17.png" group-title="央视频道",CCTV-17 农业农村 (202ms)
 http://74.91.26.218:82/live/cctv17hd.m3u8
